@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-			id="com.jchalan.cordova.ios.disableshaketoundo"
+			id="com.jcahalan.cordova.ios.disableshaketoundo"
 			version="0.1.0">
 
 	<name>iOS Disable Shake to Undo</name>
