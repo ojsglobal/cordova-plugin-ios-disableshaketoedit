@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-			id="com.jcahalan.cordova.ios.disableshaketoundo"
-			version="0.1.0">
+			id="com.cordova.ios.disableshaketoundo"
+			version="0.0.1">
 
 	<name>iOS Disable Shake to Undo</name>
 	<description>Disables iOS shake to undo feature in all input fields.</description>
